@@ -75,11 +75,12 @@ INVESTIGACIÓN QUE SE LLEVO A CABO EN BASE A LAS PREGUNTAS MENCIONADAS.
 
 ## Crear ejemplos de documentos JSON
 
-![Documento1](image-1.png)
+<img width="318" height="423" alt="image" src="https://github.com/user-attachments/assets/b4b14a52-de0a-439b-8dd9-a6038797780a" />
 
-![Documento2](image-2.png)
+<img width="318" height="423" alt="image" src="https://github.com/user-attachments/assets/3ac22715-6b12-472f-85ce-c7cb1a7cb859" />
 
-![Documento3](image-3.png)
+<img width="397" height="527" alt="image" src="https://github.com/user-attachments/assets/1f558cb1-4f09-4986-a207-f8857292db89" />
+
 
 # 4.
 
